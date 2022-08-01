@@ -18,14 +18,12 @@
 </tr>
 </table>
 
-### Skills Gained from this
+### Skills Gained.
 
-- Navbar using CSS flexbox.
-- Elements positioning using CSS flexbox property.
-- Wrote HTML code from scratch for this page.
+- Navbar create using flexbox.
 - Class, tag selector for HTML elements.
 - Created cards for displaying contents in better formats.
-- Modified color of svg images.
+- svg images.
 
 ### Screenshot
 
