@@ -1,10 +1,10 @@
-![Name](https://img.shields.io/badge/Name%20-vikas%20%20kumar-blue?style=for-the-badge)
+![Name](https://img.shields.io/badge/Project%20-SAAs%20%20Page-blue?style=for-the-badge)
 
-![Tech](https://img.shields.io/badge/tech-HTML-blue)
-![Tech](https://img.shields.io/badge/tech-CSS-orange)
-![project](https://img.shields.io/badge/project-SAAS--page-orange)
-![thanks](https://img.shields.io/badge/Thanks-Inueronai-yellowgreen)
-![Thanks](https://img.shields.io/badge/Thanks-Hiteshchoudhary-yellowgreen)
+![TECH](https://img.shields.io/badge/tech-HTML-blue)
+![TECH](https://img.shields.io/badge/tech-CSS-orange)
+![TIME](https://img.shields.io/badge/Time-5%20Hour-red)
+![THANKS](https://img.shields.io/badge/Thanks-Inueronai-yellowgreen)
+![THANKS](https://img.shields.io/badge/Thanks-Hiteshchoudhary-yellowgreen)
 
 # SAAS Landing Page
 
@@ -20,9 +20,8 @@
 
 ### Skills Gained.
 
-- Navbar create using flexbox.
+- flexbox Basics.
 - Class, tag selector for HTML elements.
-- Created cards for displaying contents in better formats.
 - svg images.
 
 ### Screenshot
@@ -30,5 +29,3 @@
 ![saas](./screenshot/saas1.PNG)
 ![saas](./screenshot/saas3.PNG)
 
-## Time taken
-5 hours.
