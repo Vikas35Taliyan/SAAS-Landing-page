@@ -20,12 +20,6 @@
 </tr>
 </table>
 
-### Skills Gained.
-
-- flexbox Basics.
-- Class, tag selector for HTML elements.
-- svg images.
-
 ### Screenshot
 
 ![saas](./screenshot/saas1.PNG)
